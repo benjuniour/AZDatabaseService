@@ -1,0 +1,4 @@
+#ignoring all data files
+*.txt
+*.xlsx
+*.ods
